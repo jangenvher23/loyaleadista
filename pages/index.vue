@@ -10,6 +10,7 @@
 <script>
 import Nav from "~/components/Nav.vue";
 import Login from "./login/index.vue";
+
 export default { components: { Nav, Login } };
 </script>
 
